@@ -1,2 +1,2 @@
 # memocard
-Este es un juego de memora >:3
+Este es un juego de memoria >:3
